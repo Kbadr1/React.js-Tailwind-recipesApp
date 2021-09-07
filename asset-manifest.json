@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React.js-Tailwind-recipesApp/static/css/main.e2cf90a7.chunk.css",
+    "main.js": "/React.js-Tailwind-recipesApp/static/js/main.2b964b34.chunk.js",
+    "main.js.map": "/React.js-Tailwind-recipesApp/static/js/main.2b964b34.chunk.js.map",
+    "runtime-main.js": "/React.js-Tailwind-recipesApp/static/js/runtime-main.fb4b3836.js",
+    "runtime-main.js.map": "/React.js-Tailwind-recipesApp/static/js/runtime-main.fb4b3836.js.map",
+    "static/js/2.c15a451b.chunk.js": "/React.js-Tailwind-recipesApp/static/js/2.c15a451b.chunk.js",
+    "static/js/2.c15a451b.chunk.js.map": "/React.js-Tailwind-recipesApp/static/js/2.c15a451b.chunk.js.map",
+    "static/js/3.bd519661.chunk.js": "/React.js-Tailwind-recipesApp/static/js/3.bd519661.chunk.js",
+    "static/js/3.bd519661.chunk.js.map": "/React.js-Tailwind-recipesApp/static/js/3.bd519661.chunk.js.map",
+    "index.html": "/React.js-Tailwind-recipesApp/index.html",
+    "static/css/main.e2cf90a7.chunk.css.map": "/React.js-Tailwind-recipesApp/static/css/main.e2cf90a7.chunk.css.map",
+    "static/js/2.c15a451b.chunk.js.LICENSE.txt": "/React.js-Tailwind-recipesApp/static/js/2.c15a451b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb4b3836.js",
+    "static/js/2.c15a451b.chunk.js",
+    "static/css/main.e2cf90a7.chunk.css",
+    "static/js/main.2b964b34.chunk.js"
+  ]
+}
